@@ -45,4 +45,4 @@ bot.on('ready', () => {
 });
 
 
-bot.login('NTEyNjkzMjAyNzY0MDM4MTQ0.Ds9OFA.GRVI6xNa6p-H9QNELYgou1Iz_H0');
+client.login(process.env.NTEyNjkzMjAyNzY0MDM4MTQ0.Ds9OFA.GRVI6xNa6p-H9QNELYgou1Iz_H0);
